@@ -28,6 +28,10 @@ An all-in-one ad-measurement platform unifying **TikTok, Meta, and Google CM360*
 
 <a href="https://adtempo.io"><img src="assets/adtempo.png" alt="AdTempo — campaigns ranked by 7-day ROAS" width="100%"></a>
 
+<sub>⬆️ Campaigns ranked by live ROAS · ⬇️ **Briefing Rewind** — the agents' written reports turned into auto-playing audio briefings via the **ElevenLabs** TTS API</sub>
+
+<a href="https://adtempo.io"><img src="assets/adtempo-rewind.png" alt="Briefing Rewind — ElevenLabs-powered audio briefings in AdTempo" width="100%"></a>
+
 🔗 **Live:** [adtempo.io](https://adtempo.io)
 
 ---
