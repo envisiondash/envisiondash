@@ -8,7 +8,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jeffreywalshai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jwsoundsystems@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://adtempo.io"><img src="https://img.shields.io/badge/Portfolio-6A40E0?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"></a>
+  <a href="https://adtempo.io"><img src="https://img.shields.io/badge/AdTempo-6A40E0?style=for-the-badge&logo=rocket&logoColor=white" alt="AdTempo"></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:jwsoundsystems@gmail.com">jwsoundsystems@gmail.com</a> &nbsp;·&nbsp; 📍 Santa Fe, NM · Remote &nbsp;·&nbsp; 🌐 <a href="https://adtempo.io">adtempo.io</a>
 </p>
 
 ---
