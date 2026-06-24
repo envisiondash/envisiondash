@@ -59,7 +59,7 @@ A browser-based DAW and beat-making workstation — sample chopping, waveform ed
 
 <a href="https://swoop-production.up.railway.app"><img src="assets/swoop.png" alt="Swoop Studio — sample chopping and sequencing" width="100%"></a>
 
-🔗 **Live:** [swoop-production.up.railway.app](https://swoop-production.up.railway.app) *(demo login available on request)*
+🔗 **Live:** [swoop-production.up.railway.app](https://swoop-production.up.railway.app) — **demo login:** `demo` / `swoopstudio` *(isolated sandbox — log in and start chopping)*
 
 ---
 
